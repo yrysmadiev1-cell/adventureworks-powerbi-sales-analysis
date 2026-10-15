@@ -84,9 +84,9 @@ The model includes business and time-intelligence measures such as:
 
 ## Project Files
 
-- `AdventureWorks_Sales_Analysis.pbix` - editable Power BI project
-- `AdventureWorks_Sales_Analysis.pdf` - exported five-page report
-- `screenshots/` - dashboard and model previews
+- [Download the Power BI project](AdventureWorks_Sales_Analysis.pbix) - editable `.pbix` file
+- [View the exported report](AdventureWorks_Sales_Analysis.pdf) - five-page PDF
+- [Browse dashboard screenshots](screenshots/) - report pages and data model preview
 
 ## Dashboard Preview
 
